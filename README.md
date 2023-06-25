@@ -34,7 +34,7 @@ To run and test the Location Based Attendance Android App on your local machine,
 
 1. Clone the repository:
 
-git clone https://github.com/majestic-rahul/location-based-attendace-system.git
+   git clone https://github.com/majestic-rahul/location-based-attendace-system.git
 
 2. Open the project in Android Studio.
 
